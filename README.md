@@ -6,9 +6,9 @@
 ## 🇬🇧 Beginner Python developer with practical projects and experience in Linux. Interested in backend, Linux. C1-level English helped me in learning Linux and Python. Experience in project development from scratch: file parsing, implementing comparison logic and formatting output in various formats. Additionally, experience in working with Linux terminal.
 
 # Skills / Навыки
-### Programming languages / Языки программирования: Python, C#, SQL, HTML, CSS<br>
-### Technologies / Технологии: Git, Linux (Debian, Ubuntu, Linuxmint, Lubuntu)<br>
-### Tools / Инструменты: VS Code, PyCharm, GitHub<br>
+### • Programming languages / Языки программирования: Python, C#, SQL, HTML, CSS<br>
+### • Technologies / Технологии: Git, Linux (Debian, Ubuntu, Linuxmint, Lubuntu)<br>
+### • Tools / Инструменты: VS Code, PyCharm, GitHub<br>
  
 # Projects / Проекты
 ## [Brain games](https://github.com/Korvo-iam/python-project-49)
@@ -20,11 +20,11 @@
 ## [Page_analyzer](https://github.com/Korvo-iam/python-project-83)
 ### 🇷🇺 Веб-приложение на Flask, которое позволяет добавлять и проверять веб-страницы: оно извлекает заголовки, теги `<title>`, `<h1>` и мета-описания, а также сохраняет историю проверок.
 ### 🇬🇧 Web application using Flask that allows you to add and check web pages: it retrieves titles, tags, and meta descriptions, and saves the history of checks.
-# Языки :  
-### 🇷🇺 Русский (родной)
-### 🇬🇧 Английский (свободный)
-### 🇰🇿 Казахский (базовый)
-### 🥖 Французский (начальный)
+# Languages / Языки :  
+### • 🇷🇺 Русский (родной)
+### • 🇬🇧 Английский (свободный)
+### • 🇰🇿 Казахский (базовый)
+### • 🥖 Французский (начальный)
 
 <!--
 **Korvo-iam/Korvo-iam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
