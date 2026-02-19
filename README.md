@@ -20,6 +20,9 @@
 ## [Page_analyzer](https://github.com/Korvo-iam/python-project-83)
 ### 🇷🇺 Веб-приложение на Flask, которое позволяет добавлять и проверять веб-страницы: оно извлекает заголовки, теги `<title>`, `<h1>` и мета-описания, а также сохраняет историю проверок.
 ### 🇬🇧 Web application using Flask that allows you to add and check web pages: it retrieves titles, tags, and meta descriptions, and saves the history of checks.
+## [Task_manager](https://github.com/Korvo-iam/python-project-52)
+### 🇷🇺 Веб-приложение на Django для управления задачами. Пользователи могут создавать задачи, назначать исполнителей, задавать статусы и добавлять метки для удобной фильтрации.
+### 🇬🇧 Web application using Django for task management. Users can create tasks, assign performers, set statuses, and add labels for convenient filtering.
 
 # Languages / Языки :  
 ### • 🇷🇺 Russian (native) / Русский (родной)
